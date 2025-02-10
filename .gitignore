@@ -6,7 +6,8 @@ node_modules
 # swap files
 *~
 *.swp
-
+*.txt
+*.vec
 
 
 env.sh
